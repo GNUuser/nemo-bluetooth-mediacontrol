@@ -5,7 +5,7 @@
 
 #include "bluetoothmediacontrol.h"
 
-class NemoBluetoothMediaControlPliugin : public QQmlExtensionPlugin
+class NemoBluetoothMediaControlPlugin : public QQmlExtensionPlugin
 {
     Q_OBJECT
     Q_PLUGIN_METADATA(IID "org.nemomobile.bluetoothmediacontrol")
